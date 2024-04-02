@@ -1,0 +1,13 @@
+buttons =
+
+<!DOCTYPE html>
+<html>
+    <head>
+    <body bgcolor="#D6EAF8">
+
+     <a href="https://www.google.com"
+     target="_blank">   
+     <button style="font-size: 25px; backgroud-color:pink; color: black; border-radius: 25px;">click me</button>   
+    </a>   
+    </head>
+</html>
